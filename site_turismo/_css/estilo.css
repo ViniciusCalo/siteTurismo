@@ -1,0 +1,32 @@
+.site{
+    background-color: #222831  ;
+    text-align: center;
+}
+.tabela{
+    width: 90%;
+    margin: auto;
+    background: #00adb5;
+    border-color: #00adb5;
+    border-style: solid 25px;
+}
+.topo{
+    background-color: #393e46;
+    color: #eeeeee;
+}
+.conteudo{
+    background-color: #a6e3e9;
+    color: #393e46;
+}
+a:link, a:visited {
+    background-color: #0d7377;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+  }
+  
+  a:hover, a:active {
+    background-color: #5e63b6
+  }

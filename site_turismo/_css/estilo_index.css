@@ -1,0 +1,73 @@
+.index{
+    background-color: #eeeeee;
+}
+
+.banner{
+    background-color: #393e46;
+    height: 150px;
+    color: #a6e3e9;
+    font: normal 24pt Arial serif;
+    text-align: center;
+    padding: 10px 10px;
+    margin-top: auto;
+}
+.botao{
+    background-color: #00adb5;
+    height: 75px;
+    text-align: center;
+    margin-top: auto;
+    padding: 20px 20px;
+}
+.next{
+    background-color: #393e46;
+    color: #00adb5;
+    height: 50%;
+    width: 25%;
+    padding: 15px 25px;
+    text-align: center;
+    font: normal 20pt Arial serif;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: #43ffff;
+    color: black;
+  }
+
+.imagens1 {
+    background-color: #999999;
+}
+.imagem1 {
+    padding: 20px 20px;
+    width: 45%;
+    height: 50%;
+    border-radius: 40px;
+}
+.imagem2{
+    padding: 20px 20px ;
+    width: 45%;
+    height: 50%;
+    float: right;
+    border-radius: 40px;
+}
+.imagem3{
+    padding: 20px 20px;
+    width: 45%;
+    height: 50%;
+    border-radius: 40px;
+}
+.imagem4{
+    padding: 20px 20px ;
+    width: 45%;
+    height: 50%;
+    float: right;
+    border-radius: 40px;
+}
+.imagens2{
+    background-color: #999999;
+}
+.creditos{
+    background-color:  #a6e3e9;
+    text-align: center;
+    font: normal 12pt sans-serif;
+}
